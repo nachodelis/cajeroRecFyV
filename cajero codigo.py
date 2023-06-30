@@ -11,7 +11,6 @@ import numpy as np
 import time
 import pyttsx3
 
-
 engine = pyttsx3.init()
 def print_and_speak(message):
     print(message)
